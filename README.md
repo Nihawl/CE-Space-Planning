@@ -1,4 +1,6 @@
 //C# Definition Code
+
+
 //Component a
 //Algorithm
     //Definition of Main Exhibtion Area
